@@ -9,6 +9,7 @@ Nature ( https://www.nature.com/ )에서 'SARS-CoV-2'와 'COVID-19'을 검색하
 <img src="https://github.com/mhlee216/COVID-19_Nature_Papers_NLP/blob/main/LDA_result.jpg">
 
 
+
 0: ['health', 'behavior', 'digital', 'And', 'models', '(e.g.', 'assessment', 'behavioral', 'risk', 'science"']
 
 1: ['model', 'Figure', 'models', 'values', 'rate', '+', 'infected', '-', 'set', 'parameters"']
@@ -30,3 +31,21 @@ Nature ( https://www.nature.com/ )에서 'SARS-CoV-2'와 'COVID-19'을 검색하
 9: ['Study', 'youth', 'risk', 'health', 'mental', 'development', 'factors', 'sample', 'emerging', 'physical"']
 
 10: ['dental', 'health', 'oral', 'NHS', 'care', 'multimorbidity', 'conditions', 'I', 'programme', 'dentistry"']
+
+11: ['I', 'articles', 'subject', 'Privacy', 'policies', 'Press', 'Open', 'editing', 'Search', 'Librarian"']
+
+12: ['hypertension', 'salt', 'pressure', 'Webb', 'multimorbidities', 'Registry:', 'cardiac', 'cardiovascular', 'Rebecca', 'BP"']
+
+13: ['cells', 'cell', 'immune', 'T', 'activation', 'SARS-CoV-2', 'protein', 'viral', 'inflammatory', 'levels"']
+
+14: ['network', 'graph', 'theory', 'mathematical', 'science', 'networks', 'systems', 'complex', 'behavior', 'scientists"']
+
+15: ['vaccines', 'DNA', 'WHO', 'vaccine', 'plasmid', 'guidelines', 'consultation', 'candidate', 'development', 'phase"']
+
+16: ['BP', 'blood', 'pressure', 'p', 'mmHg', 'age', 'Methods:', 'Conclusions:', 'Results:', 'Introduction:"']
+
+17: ['drug', 'drugs', 'toothbrushes', 'toothpaste', 'treatment', 'cancer', '2015/16', 'genetic', 'therapy', 'eye"']
+
+18: ['isolated', 'natural', 'biosynthetic', 'bacterial', 'sponge', 'compounds', 'marine', 'bacteria', 'products', 'identified"']
+
+19: ['SARS-CoV-2', 'antibody', 'antibodies', 'cells', 'vaccine', 'protein', 'virus', 'T', 'S', 'IgG"']
